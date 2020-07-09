@@ -1,5 +1,5 @@
 # Chatbot
-Note: I Couldn't upload the video on Youtube So, I have uploaded it here 
+Note: I Couldn't upload the video on Youtube So, I have uploaded it here ( You can hear the text to speech reply in the video)
 
 ( I used Speech Recognition extension instead of the orginal speech recognition provided by app inventor because I didn't want to show the blue ui of google )
 
